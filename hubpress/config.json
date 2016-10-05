@@ -6,7 +6,7 @@
   },
   "site": {
     "title": "IEEE Compute | The Blog",
-    "description": "This is the official blog of IEEE Compute, the IEEE Computer Society India Council Student Activities Committee",
+    "description": "Official Blog of IEEE Compute",
     "postsPerPage": "20",
     "disqus": "webmastercompute"
   },
