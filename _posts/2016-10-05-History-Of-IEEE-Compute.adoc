@@ -1,5 +1,7 @@
 = History Of IEEE Compute
+
 image::http://github.com/IEEECompute/blog/images/12003416_1042580775772604_429239502955523407_n.jpg[]
+
 ==== Know how we started...
 
 The IEEE Compute Newsletter is the brainchild of the IEEE India Council CS SAC. Since its conception in 2015, when the first volume hit the stands for all the curious minds in India, the IEEE Compute Newsletter has been serving as a means to communicate the events, trends and developments in the computer industry to its readers. Two very successful issues of the Newsletter have been released with the inspiring hard work and commitment shown by the teams working for the Newsletter. These teams are unique in their diversity, with members from different streams, universities, and states, working together, untiringly, to bring the newsletter to its communicative potential.
