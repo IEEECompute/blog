@@ -8,7 +8,7 @@
     "title": "IEEE Compute | The Blog",
     "description": "Official Blog of IEEE Compute",
     "postsPerPage": "20",
-    "disqus": "webmastercompute"
+    "disqus": "computedisqus"
   },
   "socialnetwork": {
     "email": "webmaster.compute@gmail.com",
