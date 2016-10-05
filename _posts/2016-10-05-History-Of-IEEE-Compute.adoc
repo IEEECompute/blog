@@ -1,6 +1,6 @@
 = History Of IEEE Compute
 
-image::https://github.com/IEEECompute/blog/blob/gh-pages/images/12003416_1042580775772604_429239502955523407_n.jpg
+image::https://github.com/IEEECompute/blog/blob/gh-pages/images/12003416_1042580775772604_429239502955523407_n.jpg[]
 
 ==== Know how we started...
 
