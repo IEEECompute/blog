@@ -4,7 +4,16 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "IEEE Compute | The Blog",
+    "description": "This is the official blog of IEEE Compute, the IEEE Computer Society India Council Student Activities Committee",
+    "postsPerPage": "20"
+  },
+  "socialnetwork": {
+    "email": "webmaster.compute@gmail.com",
+    "github": "IEEECompute"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
