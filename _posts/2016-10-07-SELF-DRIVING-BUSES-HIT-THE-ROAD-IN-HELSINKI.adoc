@@ -4,6 +4,8 @@
 
 After Google’s self driving cars, the latest self driven automobiles that can be seen on the roads of Helsinki are the minibuses. These small electric buses were developed by a French company EasyMile which is a joint venture between two other French companies, automaker Ligier and robotics firm Robosoft. These buses will be able to achieve a maximum speed of 25 miles per hour, but are being driven at 7 miles per hour during the trial period and can accommodate up to nine passengers at a time.
 
+image:http://i2.cdn.turner.com/money/dam/assets/160818123136-self-driving-bus-2-780x439.png[]
+
 These buses are being deployed to carry passenger between two busy stations in the city’s waterfront Harnesaari district. A driver is stationed on board in case of an emergency.
 
 This project aims to make Helsinki a carless zone within a few years. The city, which already has a well established transport system, is also developing an on demand mobility program, which would digitalize the booking procedure with the help of an integrated mobile app.
