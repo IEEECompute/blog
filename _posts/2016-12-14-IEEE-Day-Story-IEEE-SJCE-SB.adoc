@@ -1,6 +1,6 @@
 = IEEE Day Story | IEEE SJCE SB
 
-We, the Compute team sent mails to many SBs for IEEE Day stories. We were amazed to receive a mail from IEEE SJCE Mysuru with nothing more than a link to a video. We first didn't consider the mail for posting in blog as we were looking for reports. But once we saw the video, we wanted to share it to all volunteers.
+We, the Compute team sent mails to many SBs for IEEE Day stories. We were amazed to receive a mail from IEEE SJCE Mysuru with nothing more than a link to a video. We were initially looking for reports. But once we saw the video, we wanted to share it to all volunteers.
 
 video::Pw7LFFzXMKY[youtube]
 ====== .
