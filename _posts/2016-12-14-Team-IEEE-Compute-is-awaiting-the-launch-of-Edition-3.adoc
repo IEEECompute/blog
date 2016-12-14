@@ -1,15 +1,9 @@
 = Team IEEE Compute is awaiting the launch of Edition 3
 
 ==== We are thankful to all our readers!
-====== .
 image:https://raw.githubusercontent.com/IEEECompute/blog/gh-pages/images/12003416_1042580775772604_429239502955523407_n.jpg[]
-====== .
 IEEE Compute is celebrating All India Computer Society Congress (AICSC), Hyderabad with its third edition.
-====== .
 image:https://raw.githubusercontent.com/IEEECompute/blog/gh-pages/images/17132_1477302209.jpg[]
-====== .
 IEEE Compute, the IEEE Computer Society India Student Activities Newsletter is awaiting the launch of its Third Edition at AICSC 2016, Hyderabad. We invite all volunteers to be a part of the event that happens simultaneosly online and offline. Keep visiting our Facebook and Twitter pages for updates.
-====== .
 Here is the story of IEEE Compute's past editions in a short info-graphic. Thanks to *Indra Kumar* for his wonderful design.
-====== .
 image:https://raw.githubusercontent.com/IEEECompute/blog/gh-pages/images/b15ac299-3644-483d-9680-8d1bf984c11a.jpg[]
