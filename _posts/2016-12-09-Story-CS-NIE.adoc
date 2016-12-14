@@ -1,4 +1,5 @@
 = Story | CS @ NIE
+:published_at: 2016-12-09
 
 ==== "Story" is a series of stories from CS Chapters across India about their achievements and specialities.
 
