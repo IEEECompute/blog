@@ -1,6 +1,6 @@
-= The Story | CS Chapter @ NIE
+= Story | CS @ NIE
 
-===== "The Story" is a series of stories from CS Chapters across India about their achievements and specialities.
+==== "Story" is a series of stories from CS Chapters across India about their achievements and specialities.
 
 The NIE IEEE Student Branch’s Computer Society Chapter is one of the active Computer Society chapters with an amazing strength of around 75. It was initiated back in early 2015 and by September 2015 it was officially inaugurated. It had around 15 members in its first year followed by a whopping 60 new members this year which has been our biggest achievement.
 
