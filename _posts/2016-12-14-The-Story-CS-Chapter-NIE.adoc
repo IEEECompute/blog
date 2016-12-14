@@ -1,0 +1,15 @@
+= The Story | CS Chapter @ NIE
+
+===== "The Story" is a series of stories from CS Chapters across India about their achievements and specialities.
+
+The NIE IEEE Student Branch’s Computer Society Chapter is one of the active Computer Society chapters with an amazing strength of around 75. It was initiated back in early 2015 and by September 2015 it was officially inaugurated. It had around 15 members in its first year followed by a whopping 60 new members this year which has been our biggest achievement.
+
+Since its inception we have had various events under the CS Chapter. Last year, the official inauguration of the CS Chapter was done in the gracious presence of IEEE Computer Society Chairman, Bangalore section, Dr. Bindhu Madhava. A Scratch workshop was also done by the CS chapter.
+
+We started this year with an exclusive session on Open Source and Basic Programming sessions. Under the odd semester fest, Adroit, of our student branch, the CS Chapter hosted a talk by Mr. Farhaan Bukhsh, a GSoCer of 2016, on FOSS. We also organised a humanitarian event for an NGO, Divyadeepa, under which our volunteers from the CS Chapter contribute towards the computer education of the underprivileged kids. 
+
+We plan to celebrate the IEEE Day in coming week at the Hub level with members from all over the hub coming together to meet, discuss and share ideas.
+
+IEEE CS gave our members chance to volunteer for and attend the All India IEEE Computer Society and YP Congress 2015 held at Delhi. We got to meet the IEEE Computer Society Chair and Membership Director, and various personalities from the industry which gave our members exposure to opportunities. 
+
+We aim to get better and continue being an active member body by volunteering for computer society.
