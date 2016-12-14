@@ -1,6 +1,7 @@
 = Self Driving Buses Hit The Road In Helsinki
 
-==== Apoorva Jain, Content Designer, Team IEEE Compute
+==== Apoorva Jain
+====== Content Designer, IEEE Compute
 
 
 After Google’s self driving cars, the latest self driven automobiles that can be seen on the roads of Helsinki are the minibuses. These small electric buses were developed by a French company EasyMile which is a joint venture between two other French companies, automaker Ligier and robotics firm Robosoft. These buses will be able to achieve a maximum speed of 25 miles per hour, but are being driven at 7 miles per hour during the trial period and can accommodate up to nine passengers at a time.
