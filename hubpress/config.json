@@ -8,6 +8,7 @@
     "title": "IEEE Compute | The Blog",
     "description": "Official Blog of IEEE Compute",
     "postsPerPage": "20",
+    "googleAnalytics": "UA-88943153-1",
     "disqus": "computedisqus"
   },
   "socialnetwork": {
